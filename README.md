@@ -1,4 +1,11 @@
 # Jbling Hospital Release Tracker
+## Install
+
+1. Install Tampermonkey
+2. Open the link below
+3. Click Install
+
+https://raw.githubusercontent.com/jadams413/Torn/main/jbling-hospital-tracker.user.js
 
 Tracks enemy hospital timers during Ranked Wars.
 
